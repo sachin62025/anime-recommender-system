@@ -1,7 +1,7 @@
 venv/
 artifacts/raw/
 artifacts/processed/
-artifacts/models/
+artifacts/model/
 artifacts/weights/
-artifacts/model_checkpoints/
+artifacts/model_checkpoint/
 Anime_recommender.egg-info/
