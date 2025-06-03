@@ -7,6 +7,6 @@ seaborn
 google-cloud-storage
 pyyaml
 tensorflow
-comet_ml
+comet-ml
 dvc
 dvc-gs
